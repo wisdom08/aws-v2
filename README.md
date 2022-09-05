@@ -27,3 +27,6 @@ var.sh 파일 수정 후 다시 배포
 (1) 버전
 (2) 프로젝트 이름
 ```
+
+## 참고
+[velog: aws-배포-2단계-버전](https://velog.io/@wisdom08/aws-%EB%B0%B0%ED%8F%AC-2%EB%8B%A8%EA%B3%84-%EB%B2%84%EC%A0%84)
